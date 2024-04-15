@@ -1,0 +1,16 @@
+/* 自定义的CSS */
+:root{
+    --btn-bg: #3B5998;
+    /* 滚动条颜色 */
+    --scrollbar-color: #3B5998;
+}
+
+/* 设置分页按钮样式 */
+#pagination .page-number.current{
+    background-color: #6d85c9;
+}
+
+/* 将右侧的几个控制按钮调整为圆形 */
+#rightside>div>button{
+    border-radius: 50%;
+}

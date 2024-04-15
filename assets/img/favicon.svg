@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="95" height="41.15228013101786" viewBox="0 0 95 41.15228013101786">
+    <defs id="SvgjsDefs1909">
+        <linearGradient id="SvgjsLinearGradient1914">
+            <stop id="SvgjsStop1915" stop-color="#00ddff" offset="0"></stop>
+            <stop id="SvgjsStop1916" stop-color="#ff00d4" offset="1"></stop>
+        </linearGradient>
+    </defs>
+    <g id="SvgjsG1910" featurekey="symbolFeature-0"
+        transform="matrix(0.8270321361058602,0,0,0.8270321361058602,-3.308128544423441,-20.081755510124687)"
+        fill="url(#SvgjsLinearGradient1914)">
+        <g xmlns="http://www.w3.org/2000/svg">
+            <path class="st0" d="M12.8,50l22.8,9.1v7.1L4,53.7v-7.3l31.6-12.6v7.2L12.8,50z"
+                style="fill: url(#SvgjsLinearGradient1914);"></path>
+            <path class="st0" d="M62.2,26.8L44.9,73.2h-7l17.3-46.5H62.2z" style="fill: url(#SvgjsLinearGradient1914);">
+            </path>
+            <path class="st0" d="M87.2,50l-22.8-9.1v-7.2L96,46.4v7.3L64.4,66.2v-7.1L87.2,50z"
+                style="fill: url(#SvgjsLinearGradient1914);"></path>
+        </g>
+    </g>
+</svg>
